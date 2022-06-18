@@ -1,0 +1,7 @@
+import UIKit!
+
+var test : Int = 3
+
+print(test)
+
+// github practice 
